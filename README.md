@@ -4,7 +4,6 @@
 
 Я люблю заниматься спортом, именно поэтому выбрала свой первый проект для тестировния связанный со спортом. Я увлекаюсь бегом, танцами, йогой, растяжкой в гамаках и фитнесом. 
 
-https://sun9-44.userapi.com/impg/2VUxTdgkc5zzI3U7hL4g1yFVq6h-xp2nnE90XQ/voBegFIcMkU.jpg?size=810x1080&quality=96&sign=b81cf3166275e064f5d72bf1a3f81b31&type=albumv![Uploading image.png…]()
-
+![фото](https://sun9-44.userapi.com/impg/2VUxTdgkc5zzI3U7hL4g1yFVq6h-xp2nnE90XQ/voBegFIcMkU.jpg?size=810x1080&quality=96&sign=b81cf3166275e064f5d72bf1a3f81b31&type=album)
 
  У нас небольшая и очень дружная команда. Они всегда откликются, если мне нужна помощь, благодаря команде я очень продвинулась в тестировании и готова взять свой следующий проект.
